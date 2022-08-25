@@ -28,3 +28,8 @@ example:
 	git config user.name "Uttam Patel"
 
 
+
+	
+# to undo local commit 
+git reset HEAD~ 
+
